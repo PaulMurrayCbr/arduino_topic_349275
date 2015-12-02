@@ -2,4 +2,4 @@
 
 Project for Arduino forum post Gags and Collaborations, Random fade animation
 
-http://forum.arduino.cc/index.php?topic=363073.0
+http://forum.arduino.cc/index.php?topic=349275.0
